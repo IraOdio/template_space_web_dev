@@ -1,0 +1,10 @@
+app/*
+!app/.gitkeep
+docker/database/pgsql/data/*
+!docker/database/pgsql/data/.gitkeep
+docker/nginx/logs/*
+!docker/nginx/logs/.gitkeep
+
+
+# IDE
+.idea
